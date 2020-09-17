@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](./figures/banner_github.png)
 
 <!--
 **antoiloui/antoiloui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
