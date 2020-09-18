@@ -4,7 +4,7 @@
  
 <p align="center">
 	<a href="https://github.com/antoiloui"><img src="https://img.shields.io/github/followers/antoiloui.svg?label=Follow&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/antoiloui"><img src="https://img.shields.io/twitter/follow/antoiloui?label=Follow&style=social" alt="Twitter"></a>
+	<a href="https://twitter.com/intent/follow?screen_name=antoiloui"> <img src="https://img.shields.io/twitter/follow/antoiloui?style=social&logo=twitter" alt="follow on Twitter"></a>
 	<a href="https://www.linkedin.com/in/antoine-louis/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?label=Connect&style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://scholar.google.fr/citations?user=Im3xDfgAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Scholar--_.svg?label=Cite&style=social&logo=google-scholar" alt="Google Scholar"></a>
 	<a href="mailto:antoiloui@gmail.com"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=email"></a>
