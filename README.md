@@ -9,7 +9,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/antoiloui"><img src="https://img.shields.io/twitter/follow/antoiloui?label=Twitter&style=social" alt="follow on Twitter"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://scholar.google.fr/citations?user=Im3xDfgAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Scholar--_.svg?label=Scholar&style=social&logo=google-scholar" alt="check my work on Scholar"></a>
+	<a href="https://scholar.google.fr/citations?user=Im3xDfgAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Scholar--_.svg?label=GoogleScholar&style=social&logo=google-scholar" alt="check my work on Scholar"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.researchgate.net/profile/Antoine_Louis3"><img src="https://img.shields.io/badge/ResearchGate--_.svg?label=ResearchGate&style=social&logo=researchgate" alt="check my work on Research Gate"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
