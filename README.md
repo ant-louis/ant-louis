@@ -7,7 +7,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/antoine-louis/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?label=Connect&style=social&logo=linkedin" alt="connect with me on LinkedIn"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/antoiloui"><img src="https://img.shields.io/twitter/follow/antoiloui?label=Twitter&style=social" alt="follow on Twitter"></a>
+	<a href="https://twitter.com/antoiloui"><img src="https://img.shields.io/twitter/follow/antoiloui?label=Follow&style=social" alt="follow on Twitter"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://scholar.google.fr/citations?user=Im3xDfgAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Scholar--_.svg?label=Cite&style=social&logo=google-scholar" alt="check my work on Scholar"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
