@@ -1,6 +1,10 @@
+<!---
 <p align="center"> 
     <img src="https://github.com/antoiloui/antoiloui/blob/master/figures/banner.png" alt="Antoine Louis. PhD Researcher in Artificial Intelligence & Law.">
  </p>
+-->
+
+### Hey there 👋
  
 <p align="center">
 	<a href="https://github.com/antoiloui"><img src="https://img.shields.io/github/stars/antoiloui?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Follow me on GitHub"></a>
