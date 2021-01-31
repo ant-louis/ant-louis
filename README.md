@@ -23,5 +23,5 @@
 
 <p>
 	<a href="https://github.com/antoiloui"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=antoiloui&count_private=true&show_icons=true&hide_title=true" align="left"></a>
-	<a href="https://github.com/antoiloui"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoiloui&hide=jupyternotebook&layout=compact&hide_title=true" align="right"></a>
+	<a href="https://github.com/antoiloui"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoiloui&hide=jupyter%20notebook&layout=compact&hide_title=true" align="right"></a>
 </p>
