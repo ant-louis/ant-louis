@@ -4,7 +4,7 @@
  </p>
 -->
 
-### Hey there 👋
+## Hey there 👋
 
 <p align="center">
 	<a href="https://github.com/antoiloui"><img src="https://img.shields.io/github/stars/antoiloui?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Follow me on GitHub"></a>
