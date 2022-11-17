@@ -30,9 +30,9 @@ I'm a 25-year-old computer scientist born and raised in the lush countryside of 
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/antoine-louis/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?label=LinkedIn&style=social&logo=linkedin" alt="Connect with me on LinkedIn"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://scholar.google.fr/citations?user=Im3xDfgAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Scholar--_.svg?label=GoogleScholar&style=social&logo=google-scholar" alt="Check my work on Scholar"></a>
+	<a href="https://scholar.google.fr/citations?user=Im3xDfgAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Scholar--_.svg?label=Google%20Scholar&style=social&logo=google-scholar" alt="Check my work on Scholar"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.researchgate.net/profile/Antoine_Louis3"><img src="https://img.shields.io/badge/ResearchGate--_.svg?label=ResearchGate&style=social&logo=researchgate" alt="Check my work on Research Gate"></a>
+	<a href="https://www.researchgate.net/profile/Antoine_Louis3"><img src="https://img.shields.io/badge/ResearchGate--_.svg?label=Research%20Gate&style=social&logo=researchgate" alt="Check my work on Research Gate"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:antoiloui@gmail.com"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=minutemailer" alt="Email me"></a>
 </div>
