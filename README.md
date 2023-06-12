@@ -4,8 +4,8 @@ I'm a 25-year-old computer scientist born and raised in the lush countryside of 
 
 <!-- Github Stats -->
 <table><tr>
-    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=antoiloui&show_icons=true&line_height=28&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats" alt="Github Stats (loading...)"></a></td>
-    <td width="20%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoiloui&langs_count=8&layout=compact&hide_title=true&hide_border=true&hide=html,typescript,postscript,jupyter%20notebook&role=OWNER,COLLABORATOR" alt="Github Stats (loading...)"></a></td>
+    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=antoiloui&show_icons=true&line_height=28&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats" alt="Github Stats (loading...)"></a></td>
+    <td width="20%" align="center"><a href="#/"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=antoiloui&langs_count=8&layout=compact&hide_title=true&hide_border=true&hide=html,typescript,postscript,jupyter%20notebook&role=OWNER,COLLABORATOR" alt="Github Stats (loading...)"></a></td>
 </tr></table>
 
 ***
