@@ -4,17 +4,17 @@ I'm a 26-year-old computer scientist born and raised in the lush countryside of 
 
 <!-- Github Stats -->
 <div align="center">
-  <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=antoiloui&show_icons=true&line_height=28&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats" alt="Github Stats (loading...)"></a>
-  <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=antoiloui&langs_count=8&layout=compact&hide_border=true&hide=html,typescript,postscript,jupyter%20notebook&role=OWNER,COLLABORATOR" alt="Language Stats (loading...)"></a>
+  <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ant-louis&show_icons=true&line_height=28&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats" alt="Github Stats (loading...)"></a>
+  <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ant-louis&langs_count=8&layout=compact&hide_border=true&hide=html,typescript,postscript,jupyter%20notebook&role=OWNER,COLLABORATOR" alt="Language Stats (loading...)"></a>
 </div>
 
 ***
 
 <!-- Social buttons -->
 <div align="center">
-	<a href="https://github.com/antoiloui"><img src="https://img.shields.io/github/followers/antoiloui?label=Github&style=social" alt="Follow me on GitHub"></a>
+	<a href="https://github.com/ant-louis"><img src="https://img.shields.io/github/followers/ant-louis?label=Github&style=social" alt="Follow me on GitHub"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/antoiloui"><img src="https://img.shields.io/twitter/follow/antoiloui?label=Twitter&style=social" alt="Follow me on Twitter"></a>
+	<a href="https://twitter.com/antoinelouis_"><img src="https://img.shields.io/twitter/follow/antoinelouis_?label=Twitter&style=social" alt="Follow me on Twitter"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/antoine-louis/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?label=LinkedIn&style=social&logo=linkedin" alt="Connect with me on LinkedIn"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
