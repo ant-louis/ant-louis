@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Antoine
 
-I'm a 26-year-old computer scientist born and raised in the lush countryside of Belgium. I work to solve challenging problems through technology. By day, I’m a PhD Candidate working on machine Learning for law. At night, I’m a rookie software engineer trying to bring some ideas to life.
+I'm a 27-year-old computer scientist born and raised in the lush countryside of Belgium. I work to solve challenging problems through technology. By day, I’m a PhD Candidate working on machine Learning for law. At night, I’m a rookie software engineer trying to bring some ideas to life.
 
 <!-- Github Stats -->
 <div align="center">
