@@ -20,5 +20,7 @@ I'm Antoine, a 27-year-old computer scientist who work to solve exciting problem
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/antoine-louis/"><img src="https://img.shields.io/badge/_--_.svg?logo=linkedin&style=social&label=%E2%80%8Bantoine-louis" alt="Connect with me on LinkedIn"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto:antoiloui@gmail.com"><img src="https://img.shields.io/badge/_--_.svg?logo=minutemailer&style=social&label=%E2%80%8Bantoiloui%20[at]%20gmail%20[dot]%20com" alt="Email me"></a>
+	<a href="https://antoinelouis.co/"><img src="https://img.shields.io/badge/_-_?logo=safari&logoColor=grey&style=social&label=%E2%80%8Bantoinelouis.co" alt="Visit my website"></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="mailto:antoiloui@gmail.com"><img src="https://img.shields.io/badge/_--_.svg?logo=gmail&style=social&label=%E2%80%8Bantoiloui%20[at]%20gmail%20[dot]%20com" alt="Email me"></a>
 </div>
