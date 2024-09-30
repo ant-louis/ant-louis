@@ -12,8 +12,10 @@ I'm Antoine, a 27-year-old computer scientist who work to solve exciting problem
 
 <!-- Social buttons -->
 <div align="center">
+	<!-- 
 	<a href="https://github.com/ant-louis"><img src="https://img.shields.io/github/followers/ant-louis?style=social&label=%E2%80%8Bant-louis" alt="Follow me on GitHub"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
+	-->
 	<a href="https://x.com/antoinelouis_"><img src="https://img.shields.io/badge/_-284-_?logo=x&style=social&label=%E2%80%8Bantoinelouis_" alt="Follow me on Twitter"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://scholar.google.com/citations?user=Im3xDfgAAAAJ&hl=en&sortby=pubdate"><img src="https://img.shields.io/badge/_-76-_.svg?logo=google-scholar&style=social&label=Google%20Scholar" alt="Check my work on Scholar"></a>
