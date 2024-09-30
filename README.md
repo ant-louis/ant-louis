@@ -1,6 +1,6 @@
-### Hey 👋, I'm Antoine
+### Hey 👋
 
-I'm a 27-year-old computer scientist born and raised in the lush countryside of Belgium. I work to solve challenging problems through technology. By day, I’m a PhD Candidate working on machine Learning for law. At night, I’m a rookie software engineer trying to bring some ideas to life.
+I'm Antoine, a 27-year-old computer scientist who work to solve exciting problems through technology.
 
 <!-- Github Stats -->
 <div align="center">
@@ -12,15 +12,13 @@ I'm a 27-year-old computer scientist born and raised in the lush countryside of 
 
 <!-- Social buttons -->
 <div align="center">
-	<a href="https://github.com/ant-louis"><img src="https://img.shields.io/github/followers/ant-louis?label=Github&style=social" alt="Follow me on GitHub"></a>
+	<a href="https://github.com/ant-louis"><img src="https://img.shields.io/github/followers/ant-louis?style=social&label=%E2%80%8Bant-louis" alt="Follow me on GitHub"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/antoinelouis_"><img src="https://img.shields.io/twitter/follow/antoinelouis_?label=Twitter&style=social" alt="Follow me on Twitter"></a>
+	<a href="https://x.com/antoinelouis_"><img src="https://img.shields.io/badge/_-284-_?logo=x&style=social&label=%E2%80%8Bantoinelouis_" alt="Follow me on Twitter"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/antoine-louis/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?label=LinkedIn&style=social&logo=linkedin" alt="Connect with me on LinkedIn"></a>
+	<a href="https://scholar.google.com/citations?user=Im3xDfgAAAAJ&hl=en&sortby=pubdate"><img src="https://img.shields.io/badge/_-76-_.svg?logo=google-scholar&style=social&label=Google%20Scholar" alt="Check my work on Scholar"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://scholar.google.fr/citations?user=Im3xDfgAAAAJ&hl=en&oi=sra"><img src="https://img.shields.io/badge/Scholar--_.svg?label=Google%20Scholar&style=social&logo=google-scholar" alt="Check my work on Scholar"></a>
+	<a href="https://www.linkedin.com/in/antoine-louis/"><img src="https://img.shields.io/badge/_--_.svg?logo=linkedin&style=social&label=%E2%80%8Bantoine-louis" alt="Connect with me on LinkedIn"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.researchgate.net/profile/Antoine_Louis3"><img src="https://img.shields.io/badge/ResearchGate--_.svg?label=Research%20Gate&style=social&logo=researchgate" alt="Check my work on Research Gate"></a>
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto:antoiloui@gmail.com"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=minutemailer" alt="Email me"></a>
+	<a href="mailto:antoiloui@gmail.com"><img src="https://img.shields.io/badge/_--_.svg?logo=minutemailer&style=social&label=%E2%80%8Bantoiloui%20[at]%20gmail%20[dot]%20com" alt="Email me"></a>
 </div>
