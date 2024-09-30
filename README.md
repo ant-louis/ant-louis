@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Antoine, a 27-year-old computer scientist who work to solve exciting problems through technology.
+I'm Antoine, a 27-year-old computer scientist who works to solve exciting problems through technology.
 
 <!-- Github Stats -->
 <div align="center">
