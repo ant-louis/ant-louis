@@ -16,11 +16,11 @@ I'm Antoine, a 27-year-old computer scientist who works to solve exciting proble
 	<a href="https://github.com/ant-louis"><img src="https://img.shields.io/github/followers/ant-louis?style=social&label=%E2%80%8Bant-louis" alt="Follow me on GitHub"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	-->
-	<a href="https://huggingface.co/antoinelouis"><img src="https://img.shields.io/badge/🤗%20antoinelouis-32-_?style=social" alt="Check my work on Hugging Face"></a>
+	<a href="https://huggingface.co/antoinelouis"><img src="https://img.shields.io/badge/🤗%20antoinelouis-37-_?style=social" alt="Check my work on Hugging Face"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://scholar.google.com/citations?user=Im3xDfgAAAAJ&hl=en&sortby=pubdate"><img src="https://img.shields.io/badge/_-76-_.svg?logo=google-scholar&style=social&label=Google%20Scholar" alt="Check my work on Scholar"></a>
+	<a href="https://scholar.google.com/citations?user=Im3xDfgAAAAJ&hl=en&sortby=pubdate"><img src="https://img.shields.io/badge/_-103-_.svg?logo=google-scholar&style=social&label=Google%20Scholar" alt="Check my work on Scholar"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://x.com/antoinelouis_"><img src="https://img.shields.io/badge/_-284-_?logo=x&style=social&label=%E2%80%8Bantoinelouis_" alt="Follow me on X"></a>
+	<a href="https://x.com/antoinelouis_"><img src="https://img.shields.io/badge/_-301-_?logo=x&style=social&label=%E2%80%8Bantoinelouis_" alt="Follow me on X"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/antoine-louis"><img src="https://img.shields.io/badge/_--_.svg?logo=linkedin&style=social&label=%E2%80%8Bantoine-louis" alt="Connect with me on LinkedIn"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
